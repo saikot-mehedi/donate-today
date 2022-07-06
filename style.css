@@ -88,6 +88,17 @@ div a{
 .donation-plan p{
     text-align: left;
 }
+.volunteer{
+    display: flex;
+    width: 100%;
+    margin-bottom: 10%;
+}
+.volunteer-width{
+    width: 50%;
+}
+#joinus-link{
+    text-align: center;
+}
 footer{
     margin:0%;
     background-color: rgb(17, 15, 15);
