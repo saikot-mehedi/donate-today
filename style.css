@@ -31,7 +31,7 @@ p{
     width: auto;
     padding: 15%;
 }
-#donate-now-link{
+.donate-now-link{
     text-align: center;
     text-decoration: none;
     
@@ -42,6 +42,30 @@ div a{
     padding: 20px;
     border-radius: 10px;
     background-color: rgb(223, 80, 69);
+}
+.container-one{
+    display: flex;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 2%;
+}
+.tk-amount{
+    text-align: center;
+    font-weight: 600;
+    color: grey;
+    width: 20%;
+    background-color: whitesmoke;
+    border-radius: 6%;
+    margin: 3px;
+    padding: 50px;
+}
+.selected-tk{
+    background-color: rgb(238, 207, 202);
+    color: rgb(243, 44, 18);
+    border-color: dodgerblue;
+}
+#input-align{
+    text-align: center;
 }
 .container-two{
     display: flex;
