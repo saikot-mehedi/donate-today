@@ -35,4 +35,14 @@ div a{
     border-radius: 10px;
     background-color: rgb(223, 80, 69);
 }
+footer{
+    
+    background-color: rgb(17, 15, 15);
+    padding: 15px;
+}
+footer h2{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    color: tomato;
+}
 
