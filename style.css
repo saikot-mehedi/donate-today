@@ -63,8 +63,19 @@ div a{
     background-color: rgb(238, 207, 202);
     color: rgb(243, 44, 18);
 }
-#input-align{
+.input-align{
     text-align: center;
+}
+#input-tk{
+    background-color: solid white;
+    color: grey;
+    height: 70px;
+    width: 30%;
+    font-size: large;
+    text-align: center;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
 }
 .container-two{
     display: flex;
