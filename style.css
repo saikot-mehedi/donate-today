@@ -47,6 +47,7 @@ div a{
     display: flex;
     margin-left: 10%;
     margin-right: 10%;
+    margin-bottom: 10%;
 }
 .donation-plan{
     width: 33%;
