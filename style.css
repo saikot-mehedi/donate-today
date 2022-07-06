@@ -62,7 +62,6 @@ div a{
 .selected-tk{
     background-color: rgb(238, 207, 202);
     color: rgb(243, 44, 18);
-    border-color: dodgerblue;
 }
 #input-align{
     text-align: center;
@@ -98,6 +97,36 @@ div a{
 }
 #joinus-link{
     text-align: center;
+}
+.subscribe-area{
+    text-align: center;
+    padding: 50px;
+    border-radius: 6px;
+    border-width: 20px;
+    margin-top: 3%;
+    margin-bottom: 7%;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: bisque;
+}
+#email-box{
+    border: 0px;
+    height: 50px;
+    width: 30%;
+    border-bottom-left-radius: 5px ;
+    border-top-left-radius: 5px;
+    font-size: medium;
+    color: grey;
+}
+#sub-button{
+    background-color: rgb(212, 86, 86);
+    border: 0px;
+    color: white;
+    height: 50px;
+    width: 15%;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    font-size: large;
 }
 footer{
     margin:0%;
