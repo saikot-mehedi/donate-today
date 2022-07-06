@@ -1,0 +1,38 @@
+body{
+    font-family: 'Noto Serif', serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: xx-large;
+    margin: 0%;
+}
+h1{
+    
+    color: white;
+    font-weight: 700;
+    text-align: center;
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: large;
+}
+#top-banner{
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: auto;
+    padding: 15%;
+}
+#donate-now-link{
+    text-align: center;
+    text-decoration: none;
+    
+}
+div a{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(223, 80, 69);
+}
+
